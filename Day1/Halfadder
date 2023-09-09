@@ -1,1 +1,2 @@
-
+Half adder is a combinational circuit which is used to perform addition operation and to construct this circuit we need one xor gate and one and gate is needed.
+The truth table and the simulation results are available in this file
