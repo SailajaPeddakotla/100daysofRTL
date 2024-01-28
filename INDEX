@@ -36,3 +36,27 @@ Day 32: Single Port RAM
 Day 33: Decimal to BCD Encoder
 Day 34: BCD to Decimal Decoder
 Day 35: 8 Bit ROM
+Day 36: N-bit clock Divider
+Day 37: Binary to Gray Code Converter
+Day 38: Gray to Binary code Converter
+Day 39: 8 bit ALU
+Day 40: 16 bit Program Counter
+Day 41: Dual Port RAM
+Day 42: 16 bit ALU
+Day 43: Fixed Priority Arbiter
+Day 44: Odd Clock Generator
+Day 45: Tristate Buffer
+Day 46: Master Slave JK Flip Flop
+Day 47: Round Robin Arbiter
+Day 48: Mod-10 Counter
+Day 49: Mealy machine for 2's compliment
+Day 50: Sequence Detector to detect 0101 Seegunce
+Day 51: Greatest Common Divisor
+Day 52: 16 bit RAM
+Day 53: 2 bit Vedic Multiplier
+Day 54: Clock Buffer
+Day 55: Synchronous FIFO
+Day 56: 7 segment Display Pattern using RAM
+// System Verilog
+Day 57: Hello World Test Bench
+Day 58: Functions in System Verilog Test Bench
